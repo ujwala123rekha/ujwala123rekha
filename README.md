@@ -1,9 +1,9 @@
-# Hi there 👋, I'm Ujwala Rekha  
+#  Ujwala Rekha's GitHub Profile 
 
-🚀 **AI/ML Developer | Python Enthusiast | Problem Solver**  
+**AI/ML Developer | Python Enthusiast | Problem Solver**  
 
 I am passionate about **building end-to-end AI/ML projects** — from data preprocessing and model training to deployment.  
-Currently, I’m learning advanced deep learning and NLP while developing practical projects that make an impact.  
+Currently, I’m learning advanced RAG while developing practical projects that make an impact.  
 
 ---
 
@@ -20,7 +20,8 @@ Currently, I’m learning advanced deep learning and NLP while developing practi
 - **Languages**: Python, SQL, Java (basics)  
 - **ML/DL**: scikit-learn, TensorFlow, Keras  
 - **Data**: Pandas, NumPy, Matplotlib, Seaborn  
-- **Tools**: Jupyter Notebook, Git/GitHub, Streamlit  
+- **Tools**: Jupyter Notebook, Git/GitHub, Streamlit
+- **AIML** : LLM,Langchain,Rag
 
 ---
 
@@ -39,8 +40,8 @@ Currently, I’m learning advanced deep learning and NLP while developing practi
 ---
 
 ## 🌐 Connect With Me
-- 💼 [LinkedIn](https://www.linkedin.com/) *(add your link here)*  
-- ✉️ Email: your.email@example.com *(replace with yours)*  
+- 💼 [LinkedIn](https://www.linkedin.com/in/ujwala-rekha-g-b529a8287/)  
+- ✉️ Email:gujwala246@gmail.com 
 
 ---
 ⭐️ From [ujwala123rekha](https://github.com/ujwala123rekha)
