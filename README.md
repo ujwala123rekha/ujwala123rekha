@@ -42,9 +42,11 @@ Currently, I’m learning advanced RAG while developing practical projects that 
 
 ---
 
-## 🌐 Connect With Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/ujwala-rekha-g-b529a8287/)  
-- ✉️ Email:gujwala246@gmail.com 
+### 🌐 Connect With Me  
+<p align="center">
+<a href="https://www.linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:gujwala246@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 ---
 ⭐️ From [ujwala123rekha](https://github.com/ujwala123rekha)
