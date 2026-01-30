@@ -7,13 +7,31 @@ Currently, I’m learning advanced RAG while developing practical projects that 
 
 ---
 
-## 🔹 About Me
-- 🎓 AI/ML Developer with a focus on **Machine Learning & Deep Learning**
-- 💻 Skilled in **Python, scikit-learn, pandas, NumPy, Streamlit**
-- 📊 Interested in **Data Analysis, Natural Language Processing, and Generative AI**
-- 🌱 Currently exploring **LLMs & Model Fine-Tuning**
-- 🤝 Open to **collaborations and internships** in AI/ML
+✨ About Me
 
+Hi! 👋 I’m Ujwala, a final-year student at Jain University and an aspiring AI Engineer with a strong interest in building practical, real-world intelligent systems.
+
+I enjoy turning ideas into working solutions using Artificial Intelligence, Machine Learning, and Large Language Models. From developing chatbots to exploring RAG systems and fine-tuning models, I like working where theory meets real application.
+
+**What I Do**
+
+🎓 AI/ML Developer focused on Machine Learning and Deep Learning
+
+💻 Comfortable with Python, scikit-learn, pandas, NumPy, and Streamlit
+
+📊 Interested in Data Analysis, NLP, and Generative AI
+
+🌱 Currently learning LLMs and Model Fine-Tuning
+
+🤝 Open to collaborations, projects, and internships
+
+I’m keen on contributing to meaningful AI/ML and GenAI projects, open-source work, and research-driven development that creates real impact.
+
+I’m also interested in how AI systems are designed to be scalable, reliable, and responsible in real-world environments.
+
+Feel free to reach out if you’d like to talk about Python, Java, Machine Learning, LLMs, interview preparation, or tech careers — I’m always happy to learn and share.
+
+📩 Let’s connect: gujwala246@gmail.com
 ---
 
 
@@ -28,14 +46,7 @@ Currently, I’m learning advanced RAG while developing practical projects that 
 <img src="https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
-
-
----
-
-## 📌 Featured Projects
-- 📂 [Expense Tracker (Python CLI)](https://github.com/ujwala123rekha/expense_tracker) – Track daily expenses with Python  
-- 📂 [Smart Contact Book](https://github.com/ujwala123rekha/smart_contact_book) – Manage contacts smartly with Python  
-- 📂 More projects coming soon... 🚀  
+ 
 
 ---
 
@@ -46,6 +57,11 @@ Currently, I’m learning advanced RAG while developing practical projects that 
 
 ---
 
+## 🎯 Focus
+- Practical AI systems  
+- Scalable ML pipelines  
+- Responsible AI
+
 ### 🌐 Connect With Me  
 <p align="center">
 <a href="https://www.linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -53,6 +69,10 @@ Currently, I’m learning advanced RAG while developing practical projects that 
 <a href="https://github.com/ujwala123rekha"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
+
 ---
+
+🌟 Motto: Turning curiosity into intelligent systems.
+
 ⭐️ From [ujwala123rekha](https://github.com/ujwala123rekha)
 
