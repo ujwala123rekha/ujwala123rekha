@@ -1,4 +1,4 @@
-#  Ujwala Rekha's GitHub Profile 
+#  Ujwala Rekha
 
 **AI/ML Developer | Python Enthusiast | Problem Solver**  
 
